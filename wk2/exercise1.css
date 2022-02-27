@@ -1,0 +1,29 @@
+#myid {
+    color: red;
+}
+
+#myidd {
+    background-color: darkblue; 
+    color: white;
+    display: block;
+    width: 300px;
+   }
+
+   #myide {
+    color: green;
+}
+
+#myidee {
+    background-color: darkred; 
+    color: green;
+    display: block;
+    width: 300px;
+}
+
+.part3 {
+    color: green;
+}
+
+.part4 {
+    color: green;
+}
