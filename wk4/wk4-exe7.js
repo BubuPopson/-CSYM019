@@ -4,7 +4,7 @@
     div.firstChild.nodeValue = element.value;
    }
    function myLoadFunction() {
-    var element = document.getElementById('mybutton');
-    element.addEventListener('click', clickFunction);
+    var element = document.getElementById('myinput');
+    element.addEventListener('keyup', clickFunction);
    }
    document.addEventListener('DOMContentLoaded', myLoadFunction);
