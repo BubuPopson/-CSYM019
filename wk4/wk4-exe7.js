@@ -1,6 +1,7 @@
-function clickFunction() {
+   function clickFunction() {
     var element = document.getElementById('myinput');
-    alert(element.value);
+    var div = document.getElementById('result');
+    div.firstChild.nodeValue = element.value;
    }
    function myLoadFunction() {
     var element = document.getElementById('mybutton');
