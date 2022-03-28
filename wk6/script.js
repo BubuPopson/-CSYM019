@@ -1,3 +1,4 @@
+function myLoadFunction() {
 const ctx = document.getElementById('myChart');
 const myChart = new Chart(ctx, {
     type: 'bar',
@@ -33,3 +34,7 @@ const myChart = new Chart(ctx, {
         }
     }
 });
+
+}
+
+document. addEventListener('DOMContentLoaded', myLoadFunction);
