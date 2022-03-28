@@ -11,9 +11,39 @@
                     "name": "Gregory Dimitradis",
                     "email": "gdim@yahoo.com"
                 },
-                "observations": "Four pine martins. 1 adult. 3 juveniles. 
-                 In wooded area. Adult appeared to be mother. Foraging for food"
+                "observations": "Four pine martins. 1 adult. 3 juveniles.In wooded area. Adult appeared to be mother. Foraging for food."
+
+            },
+
+            {
+                "id": 2,
+                "animal": "Hare",
+                "number": 6,
+                "location": "Feed Woods, Boot",
+                "date": "2017-01-21",
+                "time": "07:30:00",
+                "observer": {
+                    "name": "Mary James",
+                    "email": "mjames@yahoo.com"
+                },
+                "observations": "Six Hares. 4 adult. 2 juveniles. In Feed wood area. Adult appeared to be mother. Foraging for food."
+
+            },
+
+            {
+                "id": 3,
+                "animal": "Beaver",
+                "number": 4,
+                "location": "Wooton, Boot",
+                "date": "2015-03-24",
+                "time": "10:30:00",
+                "observer": {
+                    "name": "Jane Martins",
+                    "email": "jmartins@yahoo.com"
+                },
+                "observations": "Four pine martins. 1 adult. 3 juveniles.In wooton area. Adult appeared to be mother. Foraging for food."
 
             }
 ]
+
 }
